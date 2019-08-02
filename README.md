@@ -5,13 +5,13 @@ Shell script to install or update [Hinka Masternode] on a Linux server running U
 ## VPS installation Ubuntu16
 ```
 wget -q https://raw.githubusercontent.com/hinkadev/hinkamnsetup/master/hinka16.autoinstall.sh
-bash hinka.autoinstall.sh
+bash hinka16.autoinstall.sh
 ```
 
 ## VPS installation Ubuntu18
 ```
 wget -q https://raw.githubusercontent.com/hinkadev/hinkamnsetup/master/hinka18.autoinstall.sh
-bash hinka.autoinstall.sh
+bash hinka18.autoinstall.sh
 ```
 ***
 
